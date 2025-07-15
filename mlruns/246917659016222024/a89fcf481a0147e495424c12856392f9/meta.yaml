@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/246917659016222024/a89fcf481a0147e495424c12856392f9/artifacts
+end_time: 1752551621106
+entry_point_name: ''
+experiment_id: '246917659016222024'
+lifecycle_stage: active
+run_id: a89fcf481a0147e495424c12856392f9
+run_name: skillful-hare-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752551615448
+status: 3
+tags: []
+user_id: admin

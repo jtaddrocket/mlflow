@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/246917659016222024/8b71f98572aa44c6862266e7034fdf07/artifacts
+end_time: 1752551533793
+entry_point_name: ''
+experiment_id: '246917659016222024'
+lifecycle_stage: active
+run_id: 8b71f98572aa44c6862266e7034fdf07
+run_name: redolent-lamb-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752551533751
+status: 4
+tags: []
+user_id: admin
