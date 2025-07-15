@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c339a3eaeb4d4fb0b0389cb653557f88/artifacts
+end_time: 1752569813366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c339a3eaeb4d4fb0b0389cb653557f88
+run_name: valuable-grouse-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752569662239
+status: 4
+tags: []
+user_id: admin

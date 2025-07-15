@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/37d14fbd484f4eac8aba05c3b07e5e78/artifacts
+end_time: 1752570610942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37d14fbd484f4eac8aba05c3b07e5e78
+run_name: gaudy-trout-898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752570472527
+status: 3
+tags: []
+user_id: admin
