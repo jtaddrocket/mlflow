@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/mlflow/2-DLMLFLOW/mlruns/926331280570816263/848ce6fb870a45ebbd3c7eb9ad1ceea5/artifacts
+end_time: 1752637577514
+entry_point_name: ''
+experiment_id: '926331280570816263'
+lifecycle_stage: active
+run_id: 848ce6fb870a45ebbd3c7eb9ad1ceea5
+run_name: burly-penguin-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752637569423
+status: 3
+tags: []
+user_id: admin

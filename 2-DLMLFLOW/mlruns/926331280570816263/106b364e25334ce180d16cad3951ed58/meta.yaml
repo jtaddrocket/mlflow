@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/mlflow/2-DLMLFLOW/mlruns/926331280570816263/106b364e25334ce180d16cad3951ed58/artifacts
+end_time: 1752637569392
+entry_point_name: ''
+experiment_id: '926331280570816263'
+lifecycle_stage: active
+run_id: 106b364e25334ce180d16cad3951ed58
+run_name: tasteful-ant-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752637557463
+status: 3
+tags: []
+user_id: admin

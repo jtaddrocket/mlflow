@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/mlflow/2-DLMLFLOW/mlruns/926331280570816263/6e582d22955f4100a6b6535d6a52b9db/artifacts
+end_time: 1752637602028
+entry_point_name: ''
+experiment_id: '926331280570816263'
+lifecycle_stage: active
+run_id: 6e582d22955f4100a6b6535d6a52b9db
+run_name: glamorous-shad-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752637557309
+status: 3
+tags: []
+user_id: admin
